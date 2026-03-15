@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Huawei_Logo.svg" alt="Huawei Logo" width="120" />
-</div>
 
 <h1 align="center">Firewatch — Tech4Connect 2025</h1>
 <h3 align="center">Active Wildfire Intelligence & Prevention Operations Center</h3>
