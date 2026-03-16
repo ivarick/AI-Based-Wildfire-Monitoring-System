@@ -1,9 +1,9 @@
 
-<h1 align="center">Firewatch — Tech4Connect 2025</h1>
+<h1 align="center">Firewatch — Tech4Connect 2026</h1>
 <h3 align="center">Active Wildfire Intelligence & Prevention Operations Center</h3>
 
 <p align="center">
-  Firewatch is an end-to-end, multi-agent AI platform built for the <strong>Huawei Tech4Connect 2025 Algeria Hackathon</strong>. It provides live, proactive monitoring by combining extreme-weather mathematical forecasting, machine learning, and deep learning into a single glassmorphic command dashboard.
+  Firewatch is an end-to-end, multi-agent AI platform built for the <strong>Huawei Tech4Connect 2026 Algeria Hackathon</strong>. It provides live, proactive monitoring by combining extreme-weather mathematical forecasting, machine learning, and deep learning into a single glassmorphic command dashboard.
 </p>
 
 ---
